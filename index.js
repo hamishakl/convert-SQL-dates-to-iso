@@ -7,13 +7,13 @@ for (let i = 0; i < arr.length; i++) {
     changeDates(file)
 }
 
+function iso(a){
+    return new Date(a)
+}
 function changeDates(file) {
 
     var json = require(`./${file}.json`)
     
-    function iso(a){
-        return new Date(a).toISOString()
-    }
     
     for (let i = 0; i < json.length; i++) {
         'createdAt' in json[i] ? json[i].createdAt = iso(json[i].createdAt) : null;
