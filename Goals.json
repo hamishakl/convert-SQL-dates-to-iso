@@ -1,0 +1,74 @@
+[
+    {
+        "achieved": 1,
+        "achievementDate": null,
+        "achievementGoalDate": 1654041600000,
+        "createdAt": 1652662633166,
+        "exerciseId": "1231a0ab-1375-486b-8cb9-f1aecf67f17c",
+        "id": "34dfd84d-c9f9-4b1c-ba87-b24165e7c0cb",
+        "reps": 5,
+        "updatedAt": 1654564007498,
+        "userId": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "weight": 100
+    },
+    {
+        "achieved": 1,
+        "achievementDate": 1655337600000,
+        "achievementGoalDate": 1653436800000,
+        "createdAt": 1652667672995,
+        "exerciseId": "60ef8a9a-d07e-4ca4-8a38-aa93ad2c7413",
+        "id": "309ab6b9-e1ee-4193-84ba-7c6ba4d65d9e",
+        "reps": 1,
+        "updatedAt": 1655347549517,
+        "userId": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "weight": 100
+    },
+    {
+        "achieved": 0,
+        "achievementDate": null,
+        "achievementGoalDate": 1652227200000,
+        "createdAt": 1652667704061,
+        "exerciseId": "f5cbd797-b842-48eb-a3b6-1d339394ec58",
+        "id": "2c7f80eb-45e8-4dd0-91a5-8a034ba34e7c",
+        "reps": 3,
+        "updatedAt": 1652667704061,
+        "userId": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "weight": 180
+    },
+    {
+        "achieved": 1,
+        "achievementDate": 1655078400000,
+        "achievementGoalDate": 1654041600000,
+        "createdAt": 1654054068939,
+        "exerciseId": "2e2d5382-e77e-4212-808f-6a9bb5093f21",
+        "id": "ab15f3cf-af5a-43cc-ab4c-598a35085e63",
+        "reps": 1,
+        "updatedAt": 1655087253618,
+        "userId": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "weight": 160
+    },
+    {
+        "achieved": 1,
+        "achievementDate": 1655337600000,
+        "achievementGoalDate": 1654214400000,
+        "createdAt": 1654237756037,
+        "exerciseId": "f9cdd0e8-37d2-49ea-aead-c2e111714d97",
+        "id": "8590947a-4cf8-4ca4-9502-3c26d625a4a2",
+        "reps": 10,
+        "updatedAt": 1655347482819,
+        "userId": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "weight": 180
+    },
+    {
+        "achieved": 0,
+        "achievementDate": null,
+        "achievementGoalDate": 1671840000000,
+        "createdAt": 1656289040827,
+        "exerciseId": "2e2d5382-e77e-4212-808f-6a9bb5093f21",
+        "id": "962ba551-441c-4edd-88fc-dc3501913ac1",
+        "reps": 10,
+        "updatedAt": 1656289040829,
+        "userId": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "weight": 140
+    }
+]

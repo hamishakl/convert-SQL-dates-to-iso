@@ -1,0 +1,38 @@
+[
+    {
+        "createdAt": 1644485426141,
+        "email": "hamish.henare@gmail.com",
+        "id": "b072e342-ef79-4893-99f9-81d3298afffc",
+        "name": "Hamish Admin",
+        "passwordHash": "$2a$12$RSTgopYgTPavGXvgvOOeUOEhzKAHibHLTahKWTdbj6Nuvtt7SIi9C",
+        "picture": 28,
+        "updatedAt": 1656315282008
+    },
+    {
+        "createdAt": 1653259036056,
+        "email": "akldigitalnz@gmail.com",
+        "id": "b5112e9f-5ea6-41ef-9555-f10e17d17327",
+        "name": "James",
+        "passwordHash": "$2b$10$.y0pHsNPFmVas5Bocf2HYu5mQNTbVcrjlxodgOrZszOOXevQ1FRJq",
+        "picture": 1,
+        "updatedAt": 1653259036057
+    },
+    {
+        "createdAt": 1655937799260,
+        "email": "hamish.tana24@gmail.com",
+        "id": "b2d8fc26-0a12-47f1-bfa5-dc1a8797b1a6",
+        "name": "Louis",
+        "passwordHash": "$2b$10$YEnQm2nj.ezrT8y8NNqfhutPXeve84SqhWTIg.dDGuJrxVNqCngDe",
+        "picture": 1,
+        "updatedAt": 1655937799264
+    },
+    {
+        "createdAt": 1656364306121,
+        "email": "dynamo@gmail.com",
+        "id": "8d69b3c6-060d-429e-8405-f06f571a0868",
+        "name": "Dynamo",
+        "passwordHash": "$2b$10$X8/1f9suPNKGwYLi60hWfe3wQjBR1300q1qWhawQqmVffQhoX5pQW",
+        "picture": 1,
+        "updatedAt": 1656364360878
+    }
+]
