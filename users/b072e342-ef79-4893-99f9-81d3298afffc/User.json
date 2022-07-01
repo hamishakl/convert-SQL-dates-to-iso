@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "62bd12c909442c766bb7df63",
+    "createdAt": "2022-02-10T09:30:26.141Z",
+    "email": "hamish.henare@gmail.com",
+    "id": "b072e342-ef79-4893-99f9-81d3298afffc",
+    "name": "Hamish Admin",
+    "passwordHash": "$2a$12$RSTgopYgTPavGXvgvOOeUOEhzKAHibHLTahKWTdbj6Nuvtt7SIi9C",
+    "picture": 28,
+    "updatedAt": "2022-06-27T07:34:42.008Z"
+  }
+]
