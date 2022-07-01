@@ -9,19 +9,21 @@ const client = new MongoClient(uri, {
   useUnifiedTopology: true,
   serverApi: ServerApiVersion.v1,
 })
+
+let arr = ['Exercise', 'Goals', 'Pr', 'User', 'Volume', 'Workout']
+for (let i = 0; i < arr.length; i++) {
+  
+  
+}
+
 client.connect(async (err) => {
-  const collection = client.db('strength-tracker').collection('exercises')
+  const collection = client.db('strength-tracker').collection(`${a}`)
   const convert = [
-    {
-      $addFields: {
-        createdAt: {
-          $toDate: '$createdAt',
-        },
-      },
-    },
+    db.Exercise.updateMany(
+      {},
+       [{ "$set": { "createdAt: { "$toDate": "$createdAt" }}}])
   ]
 
   const agg = await collection.aggregate(convert).toArray()
-  console.log(agg)
   client.close()
 })
