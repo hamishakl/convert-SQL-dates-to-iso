@@ -59,16 +59,9 @@ function findDb() {
 }
 
 client.connect(async (err) => {
-  let collection = client.db('strength-tracker').collection(a)
-  const convert = [
-    {
-      $addFields: {
-        createdAt: {
-          $toDate: '$createdAt',
-        },
-      },
-    },
-  ]
+  let collection = client.db('strength-tracker')
+  console.log(collection)
+  
 
   const agg = await collection.aggregate(convert).toArray()
   client.close()
